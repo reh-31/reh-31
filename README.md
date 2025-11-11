@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hey, I’m Rehaan — passionate about AI, machine learning, and the craft of building intelligent systems.</h2>
 
 ###
 
@@ -52,6 +52,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/reh-31/reh-31/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reh-31/reh-31/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reh-31/reh-31/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/reh-31/reh-31/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
