@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <a href="rehanmirajwale45@gmail.com" target="_blank">
+  <a href="rehanmirajwale45@gmail.com" target="rehanmirajwale45@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="linkedin.com/in/rehaan-mirajwale-baa016243" target="_blank">
