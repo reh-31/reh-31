@@ -42,9 +42,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/reh-31/reh-31/output/snake.svg" alt="Snake animation" />
-
-###
