@@ -1,4 +1,4 @@
-<h2 align="left">Hey, I’m Rehaan — passionate about AI, machine learning, and the craft of building intelligent systems.</h2>
+<h2 align="left">Hey, I’m Rehaan - passionate about AI, machine learning, and the craft of building intelligent systems.</h2>
 
 ###
 
